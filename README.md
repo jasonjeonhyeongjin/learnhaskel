@@ -13,7 +13,7 @@
             <li>
             <a href="../introduction/index.md">Introduction</a>
             <ul>
-                                    <li><a href="../introduction/index.md#about-this-tutorial">About this tutorial</a></li>  
+                                    <li><a href="./introduction/index.md#about-this-tutorial">About this tutorial</a></li>  
                                     <li><a href="../introduction/index.md#so-whats-haskell">So what's Haskell?</a></li>  
                                     <li><a href="../introduction/index.md#what-you-need">What you need to dive in</a></li>  
                             </ul>
