@@ -1,13 +1,3 @@
-
-<title>Introduction - Learn You a Haskell for Great Good!</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--<base href="http://learnyouahaskell.com/">-->
-
-<link rel="shortcut icon" href="../favicon.png" type="image/png">
-        <link rel="next" href="../starting-out/index.html">
-<link type="text/css" rel="stylesheet" href="../sh/Styles/SyntaxHighlighter.css">
-<link href="../rss.php.html" rel="alternate" type="application/rss+xml" title="Learn You a Haskell for Great Good! feed">
-</head>
 <body class="introcontent">
 <div class="bgwrapper">
     <div id="content">
@@ -84,23 +74,4 @@ GHC can take a Haskell script (they usually have a .hs extension) and compile it
                 </ul>
             </div>
         </div>
-    <script type="text/javascript" src="../sh/Scripts/shCore.js"></script>
-    <script type="text/javascript" src="../shBrushHaskell.js"></script>
-    <script type="text/javascript" src="../shBrushPlain.js"></script>
-    <script type="text/javascript">
-    dp.SyntaxHighlighter.ClipboardSwf = '/sh/Scripts/clipboard.swf';
-    dp.SyntaxHighlighter.HighlightAll('code', false, false, false, 1, false);
-    </script>
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4461592-3");
-pageTracker._trackPageview();
-</script>
-</body>
-</html>
-
-<!-- Localized -->
+   
