@@ -1,14 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
-<title>Chapters - Learn You a Haskell for Great Good!</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--<base href="http://learnyouahaskell.com/">-->
-<style type="text/css">
-	@import url('../reset.css');
-	@import url('../style.css');
-</style>
 <link rel="shortcut icon" href="../favicon.png" type="image/png">
 <link type="text/css" rel="stylesheet" href="../sh/Styles/SyntaxHighlighter.css">
 <link href="../rss.php.html" rel="alternate" type="application/rss+xml" title="Learn You a Haskell for Great Good! feed">
@@ -167,24 +156,7 @@
     <p>
     This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/" rel="nofollow">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a> because I couldn't find a license with an even longer name. 
     </p>
-        </div>
-    <script type="text/javascript" src="../sh/Scripts/shCore.js"></script>
-    <script type="text/javascript" src="../shBrushHaskell.js"></script>
-    <script type="text/javascript" src="../shBrushPlain.js"></script>
-    <script type="text/javascript">
-    dp.SyntaxHighlighter.ClipboardSwf = '/sh/Scripts/clipboard.swf';
-    dp.SyntaxHighlighter.HighlightAll('code', false, false, false, 1, false);
-    </script>
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-4461592-3");
-pageTracker._trackPageview();
-</script>
-</body>
-</html>
 
-<!-- Localized -->
+</div>
+
+
