@@ -1,3 +1,14 @@
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+
+
 [Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
 
 Learn You a Haskell for Great Good! - news
