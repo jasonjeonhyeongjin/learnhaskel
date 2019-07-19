@@ -19,7 +19,7 @@
                             </ul>
         </li>
             <li>
-            <a href="../starting-out/index.md">Starting Out</a>
+            <a href="./starting-out/index.md">Starting Out</a>
             <ul>
                                     <li><a href="./starting-out/index.md#ready-set-go">Ready, set, go!</a></li>  
                                     <li><a href="./starting-out/index.md#babys-first-functions">Baby's first functions</a></li>  
