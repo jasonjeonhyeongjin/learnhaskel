@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0">
-<channel>
-<title>Learn You a Haskell for Great Good!</title>
-<link>http://learnyouahaskell.com</link>
-<description>Learn You a Haskell for Great Good! - news</description>
-<pubDate>Mon, 19 Apr 2010 08:10:22 GMT</pubDate>
-<language>en-us</language>
+[Learn You a Haskell for Great Good!](http://learnyouahaskell.com)
+Learn You a Haskell for Great Good! - news
+pubDate Mon, 19 Apr 2010 08:10:22 GMT
+
 
             <item>
         <title>newtypes and monoids!</title>
