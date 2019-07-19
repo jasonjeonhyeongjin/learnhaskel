@@ -1,14 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
-   "http://www.w3.org/TR/html4/strict.dtd">
-<html>
-<head>
+
 <title>Introduction - Learn You a Haskell for Great Good!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!--<base href="http://learnyouahaskell.com/">-->
-<style type="text/css">
-	@import url('../reset.css');
-	@import url('../style.css');
-</style>
+
 <link rel="shortcut icon" href="../favicon.png" type="image/png">
         <link rel="next" href="../starting-out/index.html">
 <link type="text/css" rel="stylesheet" href="../sh/Styles/SyntaxHighlighter.css">
