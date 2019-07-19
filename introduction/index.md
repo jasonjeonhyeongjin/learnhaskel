@@ -66,10 +66,10 @@ GHC can take a Haskell script (they usually have a .hs extension) and compile it
                     <li style="text-align:left">
                                             </li>
                     <li style="text-align:center">
-                        <a href="../chapters/index.html">Table of contents</a>
+                        <a href="../chapters/index.md">Table of contents</a>
                     </li>
                     <li style="text-align:right">
-                                                        <a href="../starting-out/index.html" class="nxtlink">Starting Out</a>
+                                                        <a href="../starting-out/index.md" class="nxtlink">Starting Out</a>
                                             </li>
                 </ul>
             </div>
