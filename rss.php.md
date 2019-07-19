@@ -1,10 +1,7 @@
 
 <dl>
-  <dt>Definition list</dt>
+  <dt>Learn You a Haskell for Great Good</dt>
   <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 
 
@@ -15,6 +12,7 @@ Learn You a Haskell for Great Good! - news
 
 pubDate Mon, 19 Apr 2010 08:10:22 GMT
 
+---
 
 1.[newtypes and monoids!](http://learnyouahaskell.com/chapters)
 
