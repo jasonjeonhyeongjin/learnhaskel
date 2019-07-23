@@ -3,14 +3,12 @@
     <div id="content">
                 <div class="footdiv" style="margin-bottom:25px;">
                 <ul>
-                    <li style="text-align:left">
-                                            </li>
                     <li style="text-align:center">
                         <a href="../chapters/index.html">Table of contents</a>
                     </li>
                     <li style="text-align:right">
-                                                        <a href="../starting-out/index.html" class="nxtlink">Starting Out</a>
-                                            </li>
+                        <a href="../starting-out/index.html" class="nxtlink">Starting Out</a>
+                    </li>
                 </ul>
             </div>
         <h1>Introduction</h1> 
@@ -63,14 +61,13 @@ GHC can take a Haskell script (they usually have a .hs extension) and compile it
 </p>
                 <div class="footdiv">
                 <ul>
-                    <li style="text-align:left">
-                                            </li>
+                    <li style="text-align:left"></li>
                     <li style="text-align:center">
                         <a href="../chapters/index.md">Table of contents</a>
                     </li>
                     <li style="text-align:right">
-                                                        <a href="../starting-out/index.md" class="nxtlink">Starting Out</a>
-                                            </li>
+                        <a href="../starting-out/index.md" class="nxtlink">Starting Out</a>
+                    </li>
                 </ul>
             </div>
         </div>
