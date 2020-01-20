@@ -59,7 +59,7 @@ class: center, middle
 
 class: center, middle
 
-![facepalm](/모나드 괴담_files/facepalm.jpg)
+![facepalm](/모나드%20괴담_files/facepalm.jpg)
 
 ([Photo](http://www.flickr.com/photos/proimos/4199675334/) by [Alex E. Proimos](http://www.flickr.com/photos/proimos/). Released under the [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/deed.en) license.)
 
