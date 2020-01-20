@@ -734,7 +734,7 @@ main = forM_ [1 .. 10] $ \ i -> do
 
 - 왜냐하면 용어가 수학적이고
 
-![Typeclassopedia](/static/img/haskell/monad_fear/Typeclassopedia-diagram.png)
+![Typeclassopedia](/모나드%20괴담_files/f/Typeclassopedia-diagram.png)
 
 (From _Typeclassopedia_ by Brent Yorgey. Originally published 12 March 2009 in issue 13 of the _Monad.Reader_)
 
