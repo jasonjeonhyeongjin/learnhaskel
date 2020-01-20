@@ -59,7 +59,7 @@ class: center, middle
 
 class: center, middle
 
-![facepalm](/static/img/haskell/monad_fear/facepalm.jpg)
+![facepalm](/모나드 괴담_files/facepalm.jpg)
 
 ([Photo](http://www.flickr.com/photos/proimos/4199675334/) by [Alex E. Proimos](http://www.flickr.com/photos/proimos/). Released under the [Creative Commons Attribution 2.0 Generic](https://creativecommons.org/licenses/by/2.0/deed.en) license.)
 
@@ -353,12 +353,12 @@ main = readFile "myname.txt" >>= putStrLn
 ```haskell
 -- pure function
 not :: Bool -> Bool
-(++) :: [a] -> [a] ->; [a]
+(++) :: [a] -> [a] -> [a]
 
 -- IO action
 getLine :: IO String
-putStrLn :: String ->; IO ()
-readFile :: FilePath ->; IO String
+putStrLn :: String -> IO ()
+readFile :: FilePath -> IO String
 ```
 
 ---
@@ -417,7 +417,7 @@ class: center, middle
 
 --
     - 모나딕 I/O는 커뮤니티에서 먼저 널리 쓰이고 있었음. (?!)
-    - 하스켈 1.3이 이러한 현실을 반영하여 기존의 `[Response] ->; [Request]` I/O를 전면 폐기하고 모나딕 I/O와 `do` 문법을 도입.
+    - 하스켈 1.3이 이러한 현실을 반영하여 기존의 `[Response] -> [Request]` I/O를 전면 폐기하고 모나딕 I/O와 `do` 문법을 도입.
 --
 - 기존의 I/O와 구분하기 위해 "모나딕 I/O", "IO 모나드"라고 부르던 것이 굳어져 비극을 초래
 
